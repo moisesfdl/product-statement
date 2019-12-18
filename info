@@ -1,15 +1,15 @@
 <xml version="2.0" encoding="utf-8">  
 <books xmlns="http://">  
   <book species.product="" ISBN="" public account="">  
-    <title></title>  
+    <title product></title>  
     <price account=""></price>  
   </book>  
   <book species.product="" ISBN="" public account="">  
-    <title></title>  
+    <title product></title>  
     <price account=""></price>  
   </book>  
   <book species.product="" ISBN="" public account="">  
-    <title></title>  
+    <title product></title>  
     <price account=""></price>  
   </book>  
 </books>
